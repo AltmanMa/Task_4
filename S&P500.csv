@@ -1,0 +1,504 @@
+Code,Exchange,Name,Sector,Industry
+AIZ,US,Assurant Inc,Financial Services,Insurance - Specialty
+MNST,US,Monster Beverage Corp,Consumer Defensive,Beverages - Non-Alcoholic
+MTCH,US,Match Group Inc,Communication Services,Internet Content & Information
+PGR,US,Progressive Corp,Financial Services,Insurance - Property & Casualty
+CSX,US,CSX Corporation,Industrials,Railroads
+ADP,US,Automatic Data Processing Inc,Industrials,Staffing & Employment Services
+ANSS,US,ANSYS Inc,Technology,Software - Application
+AFL,US,Aflac Incorporated,Financial Services,Insurance - Life
+SO,US,Southern Company,Utilities,Utilities - Regulated Electric
+REG,US,Regency Centers Corporation,Real Estate,REIT - Retail
+LMT,US,Lockheed Martin Corporation,Industrials,Aerospace & Defense
+BMY,US,Bristol-Myers Squibb Company,Healthcare,Drug Manufacturers - General
+EIX,US,Edison International,Utilities,Utilities - Regulated Electric
+GWW,US,WW Grainger Inc,Industrials,Industrial Distribution
+FAST,US,Fastenal Company,Industrials,Industrial Distribution
+PHM,US,PulteGroup Inc,Consumer Cyclical,Residential Construction
+INTC,US,Intel Corporation,Technology,Semiconductors
+NEM,US,Newmont Goldcorp Corp,Basic Materials,Gold
+CTAS,US,Cintas Corporation,Industrials,Specialty Business Services
+ALL,US,The Allstate Corporation,Financial Services,Insurance - Property & Casualty
+CBOE,US,Cboe Global Markets Inc,Financial Services,Financial Data & Stock Exchanges
+NDAQ,US,Nasdaq Inc,Financial Services,Financial Data & Stock Exchanges
+NRG,US,NRG Energy Inc.,Utilities,Utilities - Independent Power Producers
+CSGP,US,CoStar Group Inc,Real Estate,Real Estate Services
+GIS,US,General Mills Inc,Consumer Defensive,Packaged Foods
+CNC,US,Centene Corp,Healthcare,Healthcare Plans
+MLM,US,Martin Marietta Materials Inc,Basic Materials,Building Materials
+QCOM,US,Qualcomm Incorporated,Technology,Semiconductors
+ACN,US,Accenture plc,Technology,Information Technology Services
+VMC,US,Vulcan Materials Company,Basic Materials,Building Materials
+MRO,US,Marathon Oil Corporation,Energy,Oil & Gas E&P
+AVGO,US,Broadcom Inc,Technology,Semiconductors
+AMT,US,American Tower Corp,Real Estate,REIT - Specialty
+PKG,US,Packaging Corp of America,Consumer Cyclical,Packaging & Containers
+CPB,US,Campbell Soup Company,Consumer Defensive,Packaged Foods
+FMC,US,FMC Corporation,Basic Materials,Agricultural Inputs
+RCL,US,Royal Caribbean Cruises Ltd,Consumer Cyclical,Travel Services
+WAT,US,Waters Corporation,Healthcare,Diagnostics & Research
+PPL,US,PPL Corporation,Utilities,Utilities - Regulated Electric
+FITB,US,Fifth Third Bancorp,Financial Services,Banks - Regional
+DXCM,US,DexCom Inc,Healthcare,Medical Devices
+SNPS,US,Synopsys Inc,Technology,Software - Infrastructure
+HON,US,Honeywell International Inc,Industrials,Conglomerates
+EW,US,Edwards Lifesciences Corp,Healthcare,Medical Devices
+APD,US,Air Products and Chemicals Inc,Basic Materials,Specialty Chemicals
+MCD,US,McDonald’s Corporation,Consumer Cyclical,Restaurants
+TDY,US,Teledyne Technologies Incorporated,Technology,Scientific & Technical Instruments
+NTAP,US,NetApp Inc,Technology,Computer Hardware
+KO,US,The Coca-Cola Company,Consumer Defensive,Beverages - Non-Alcoholic
+GS,US,Goldman Sachs Group Inc,Financial Services,Capital Markets
+AJG,US,Arthur J Gallagher & Co,Financial Services,Insurance Brokers
+NKE,US,Nike Inc,Consumer Cyclical,Footwear & Accessories
+KMB,US,Kimberly-Clark Corporation,Consumer Defensive,Household & Personal Products
+ROL,US,Rollins Inc,Consumer Cyclical,Personal Services
+HES,US,Hess Corporation,Energy,Oil & Gas E&P
+IT,US,Gartner Inc,Technology,Information Technology Services
+CTSH,US,Cognizant Technology Solutions Corp Class A,Technology,Information Technology Services
+WEC,US,WEC Energy Group Inc,Utilities,Utilities - Regulated Electric
+PG,US,Procter & Gamble Company,Consumer Defensive,Household & Personal Products
+SNA,US,Snap-On Inc,Industrials,Tools & Accessories
+CMA,US,Comerica Inc,Financial Services,Banks - Regional
+BIO,US,Bio-Rad Laboratories Inc,Healthcare,Medical Devices
+IRM,US,Iron Mountain Incorporated,Real Estate,REIT - Specialty
+EOG,US,EOG Resources Inc,Energy,Oil & Gas E&P
+FCX,US,Freeport-McMoran Copper & Gold Inc,Basic Materials,Copper
+TXN,US,Texas Instruments Incorporated,Technology,Semiconductors
+AON,US,Aon PLC,Financial Services,Insurance Brokers
+CHRW,US,CH Robinson Worldwide Inc,Industrials,Integrated Freight & Logistics
+FDS,US,FactSet Research Systems Inc,Financial Services,Financial Data & Stock Exchanges
+GPN,US,Global Payments Inc,Industrials,Specialty Business Services
+CMG,US,Chipotle Mexican Grill Inc,Consumer Cyclical,Restaurants
+TEL,US,TE Connectivity Ltd,Technology,Electronic Components
+MSCI,US,MSCI Inc,Financial Services,Financial Data & Stock Exchanges
+CF,US,CF Industries Holdings Inc,Basic Materials,Agricultural Inputs
+TJX,US,The TJX Companies Inc,Consumer Cyclical,Apparel Retail
+WRB,US,W. R. Berkley Corp,Financial Services,Insurance - Property & Casualty
+DLTR,US,Dollar Tree Inc,Consumer Defensive,Discount Stores
+DRI,US,Darden Restaurants Inc,Consumer Cyclical,Restaurants
+JPM,US,JPMorgan Chase & Co,Financial Services,Banks - Diversified
+CB,US,Chubb Ltd,Financial Services,Insurance - Property & Casualty
+KEY,US,KeyCorp,Financial Services,Banks - Regional
+GD,US,General Dynamics Corporation,Industrials,Aerospace & Defense
+TGT,US,Target Corporation,Consumer Defensive,Discount Stores
+EQR,US,Equity Residential,Real Estate,REIT - Residential
+RJF,US,Raymond James Financial Inc.,Financial Services,Capital Markets
+BLDR,US,Builders FirstSource Inc,Industrials,Building Products & Equipment
+SWKS,US,Skyworks Solutions Inc,Technology,Semiconductors
+MS,US,Morgan Stanley,Financial Services,Capital Markets
+AAL,US,American Airlines Group,Industrials,Airlines
+RF,US,Regions Financial Corporation,Financial Services,Banks - Regional
+PANW,US,Palo Alto Networks Inc,Technology,Software - Infrastructure
+AEP,US,American Electric Power Co Inc,Utilities,Utilities - Regulated Electric
+CE,US,Celanese Corporation,Basic Materials,Chemicals
+AMAT,US,Applied Materials Inc,Technology,Semiconductor Equipment & Materials
+CCI,US,Crown Castle,Real Estate,REIT - Specialty
+LULU,US,Lululemon Athletica Inc.,Consumer Cyclical,Apparel Retail
+VTR,US,Ventas Inc,Real Estate,REIT - Healthcare Facilities
+PPG,US,PPG Industries Inc,Basic Materials,Specialty Chemicals
+INTU,US,Intuit Inc,Technology,Software - Application
+IPG,US,Interpublic Group of Companies Inc,Communication Services,Advertising Agencies
+A,US,Agilent Technologies Inc,Healthcare,Diagnostics & Research
+IFF,US,International Flavors & Fragrances Inc,Basic Materials,Specialty Chemicals
+EL,US,Estee Lauder Companies Inc,Consumer Defensive,Household & Personal Products
+CNP,US,CenterPoint Energy Inc,Utilities,Utilities - Regulated Electric
+AVY,US,Avery Dennison Corp,Consumer Cyclical,Packaging & Containers
+UNP,US,Union Pacific Corporation,Industrials,Railroads
+MAS,US,Masco Corporation,Industrials,Building Products & Equipment
+PSX,US,Phillips 66,Energy,Oil & Gas Refining & Marketing
+GLW,US,Corning Incorporated,Technology,Electronic Components
+CME,US,CME Group Inc,Financial Services,Financial Data & Stock Exchanges
+NCLH,US,Norwegian Cruise Line Holdings Ltd,Consumer Cyclical,Travel Services
+SBUX,US,Starbucks Corporation,Consumer Cyclical,Restaurants
+STE,US,STERIS plc,Healthcare,Medical Devices
+CAG,US,ConAgra Foods Inc,Consumer Defensive,Packaged Foods
+PODD,US,Insulet Corporation,Healthcare,Medical Devices
+CLX,US,The Clorox Company,Consumer Defensive,Household & Personal Products
+UHS,US,Universal Health Services Inc,Healthcare,Medical Care Facilities
+ILMN,US,Illumina Inc,Healthcare,Diagnostics & Research
+POOL,US,Pool Corporation,Industrials,Industrial Distribution
+ODFL,US,Old Dominion Freight Line Inc,Industrials,Trucking
+MRNA,US,Moderna Inc,Healthcare,Biotechnology
+LUV,US,Southwest Airlines Company,Industrials,Airlines
+ZBRA,US,Zebra Technologies Corporation,Technology,Communication Equipment
+ROST,US,Ross Stores Inc,Consumer Cyclical,Apparel Retail
+FFIV,US,F5 Networks Inc,Technology,Software - Infrastructure
+HRL,US,Hormel Foods Corporation,Consumer Defensive,Packaged Foods
+TSCO,US,Tractor Supply Company,Consumer Cyclical,Specialty Retail
+COP,US,ConocoPhillips,Energy,Oil & Gas E&P
+CSCO,US,Cisco Systems Inc,Technology,Communication Equipment
+AEE,US,Ameren Corp,Utilities,Utilities - Regulated Electric
+CL,US,Colgate-Palmolive Company,Consumer Defensive,Household & Personal Products
+DGX,US,Quest Diagnostics Incorporated,Healthcare,Diagnostics & Research
+AME,US,Ametek Inc,Industrials,Specialty Industrial Machinery
+AOS,US,Smith AO Corporation,Industrials,Specialty Industrial Machinery
+BIIB,US,Biogen Inc,Healthcare,Drug Manufacturers - General
+BRO,US,Brown & Brown Inc,Financial Services,Insurance Brokers
+MSI,US,Motorola Solutions Inc,Technology,Communication Equipment
+ESS,US,Essex Property Trust Inc,Real Estate,REIT - Residential
+HIG,US,Hartford Financial Services Group,Financial Services,Insurance - Property & Casualty
+CDNS,US,Cadence Design Systems Inc,Technology,Software - Application
+EQIX,US,Equinix Inc,Real Estate,REIT - Specialty
+EXR,US,Extra Space Storage Inc,Real Estate,REIT - Industrial
+CVX,US,Chevron Corp,Energy,Oil & Gas Integrated
+HUM,US,Humana Inc,Healthcare,Healthcare Plans
+BBY,US,Best Buy Co. Inc,Consumer Cyclical,Specialty Retail
+PLD,US,Prologis Inc,Real Estate,REIT - Industrial
+OXY,US,Occidental Petroleum Corporation,Energy,Oil & Gas E&P
+T,US,AT&T Inc,Communication Services,Telecom Services
+KLAC,US,KLA-Tencor Corporation,Technology,Semiconductor Equipment & Materials
+LLY,US,Eli Lilly and Company,Healthcare,Drug Manufacturers - General
+APH,US,Amphenol Corporation,Technology,Electronic Components
+PRU,US,Prudential Financial Inc,Financial Services,Insurance - Life
+EMN,US,Eastman Chemical Company,Basic Materials,Specialty Chemicals
+IP,US,International Paper,Consumer Cyclical,Packaging & Containers
+SPG,US,Simon Property Group Inc,Real Estate,REIT - Retail
+FICO,US,Fair Isaac Corporation,Technology,Software - Application
+COF,US,Capital One Financial Corporation,Financial Services,Credit Services
+CHD,US,Church & Dwight Company Inc,Consumer Defensive,Household & Personal Products
+PCAR,US,PACCAR Inc,Industrials,Farm & Heavy Construction Machinery
+ORCL,US,Oracle Corporation,Technology,Software - Infrastructure
+FRT,US,Federal Realty Investment Trust,Real Estate,REIT - Retail
+PNW,US,Pinnacle West Capital Corp,Utilities,Utilities - Regulated Electric
+RL,US,Ralph Lauren Corp Class A,Consumer Cyclical,Apparel Manufacturing
+HCA,US,HCA Holdings Inc,Healthcare,Medical Care Facilities
+FIS,US,Fidelity National Information Services Inc,Technology,Information Technology Services
+ZTS,US,Zoetis Inc,Healthcare,Drug Manufacturers - Specialty & Generic
+CDW,US,CDW Corp,Technology,Information Technology Services
+URI,US,United Rentals Inc,Industrials,Rental & Leasing Services
+COST,US,Costco Wholesale Corp,Consumer Defensive,Discount Stores
+AAPL,US,Apple Inc,Technology,Consumer Electronics
+BA,US,The Boeing Company,Industrials,Aerospace & Defense
+DUK,US,Duke Energy Corporation,Utilities,Utilities - Regulated Electric
+BDX,US,Becton Dickinson and Company,Healthcare,Medical Instruments & Supplies
+PNR,US,Pentair PLC,Industrials,Specialty Industrial Machinery
+K,US,Kellanova,Consumer Defensive,Packaged Foods
+PAYX,US,Paychex Inc,Industrials,Staffing & Employment Services
+CAH,US,Cardinal Health Inc,Healthcare,Medical Distribution
+MKC,US,McCormick & Company Incorporated,Consumer Defensive,Packaged Foods
+PEG,US,Public Service Enterprise Group Inc,Utilities,Utilities - Regulated Electric
+UDR,US,UDR Inc,Real Estate,REIT - Residential
+MA,US,Mastercard Inc,Financial Services,Credit Services
+GOOGL,US,Alphabet Inc Class A,Communication Services,Internet Content & Information
+DECK,US,Deckers Outdoor Corporation,Consumer Cyclical,Footwear & Accessories
+HOLX,US,Hologic Inc,Healthcare,Medical Instruments & Supplies
+LVS,US,Las Vegas Sands Corp,Consumer Cyclical,Resorts & Casinos
+EPAM,US,EPAM Systems Inc,Technology,Information Technology Services
+BAC,US,Bank of America Corp,Financial Services,Banks - Diversified
+MO,US,Altria Group,Consumer Defensive,Tobacco
+KMI,US,Kinder Morgan Inc,Energy,Oil & Gas Midstream
+FE,US,FirstEnergy Corporation,Utilities,Utilities - Regulated Electric
+HII,US,Huntington Ingalls Industries Inc,Industrials,Aerospace & Defense
+NSC,US,Norfolk Southern Corporation,Industrials,Railroads
+LEN,US,Lennar Corporation,Consumer Cyclical,Residential Construction
+MOH,US,Molina Healthcare Inc,Healthcare,Healthcare Plans
+ENPH,US,Enphase Energy Inc,Technology,Solar
+ABT,US,Abbott Laboratories,Healthcare,Medical Devices
+WMB,US,Williams Companies Inc,Energy,Oil & Gas Midstream
+TRV,US,The Travelers Companies Inc,Financial Services,Insurance - Property & Casualty
+VLO,US,Valero Energy Corporation,Energy,Oil & Gas Refining & Marketing
+CRM,US,Salesforce.com Inc,Technology,Software - Application
+SHW,US,Sherwin-Williams Co,Basic Materials,Specialty Chemicals
+WMT,US,Walmart Inc,Consumer Defensive,Discount Stores
+MMM,US,3M Company,Industrials,Conglomerates
+NWS,US,News Corp B,Communication Services,Entertainment
+KMX,US,CarMax Inc,Consumer Cyclical,Auto & Truck Dealerships
+AWK,US,American Water Works,Utilities,Utilities - Regulated Water
+DFS,US,Discover Financial Services,Financial Services,Credit Services
+ALGN,US,Align Technology Inc,Healthcare,Medical Devices
+NVDA,US,NVIDIA Corporation,Technology,Semiconductors
+LYB,US,LyondellBasell Industries NV,Basic Materials,Specialty Chemicals
+EBAY,US,eBay Inc,Consumer Cyclical,Internet Retail
+COO,US,The Cooper Companies Inc.,Healthcare,Medical Instruments & Supplies
+XOM,US,Exxon Mobil Corp,Energy,Oil & Gas Integrated
+FOX,US,Fox Corp Class B,Communication Services,Entertainment
+UAL,US,United Airlines Holdings Inc,Industrials,Airlines
+DG,US,Dollar General Corporation,Consumer Defensive,Discount Stores
+ETN,US,Eaton Corporation PLC,Industrials,Specialty Industrial Machinery
+ULTA,US,Ulta Beauty Inc,Consumer Cyclical,Specialty Retail
+MPWR,US,Monolithic Power Systems Inc,Technology,Semiconductors
+TSLA,US,Tesla Inc,Consumer Cyclical,Auto Manufacturers
+TER,US,Teradyne Inc,Technology,Semiconductor Equipment & Materials
+LOW,US,Lowe's Companies Inc,Consumer Cyclical,Home Improvement Retail
+PAYC,US,Paycom Soft,Technology,Software - Application
+ADM,US,Archer-Daniels-Midland Company,Consumer Defensive,Farm Products
+NTRS,US,Northern Trust Corporation,Financial Services,Asset Management
+EMR,US,Emerson Electric Company,Industrials,Specialty Industrial Machinery
+AMZN,US,Amazon.com Inc,Consumer Cyclical,Internet Retail
+ADSK,US,Autodesk Inc,Technology,Software - Application
+KIM,US,Kimco Realty Corporation,Real Estate,REIT - Retail
+CAT,US,Caterpillar Inc,Industrials,Farm & Heavy Construction Machinery
+PM,US,Philip Morris International Inc,Consumer Defensive,Tobacco
+PNC,US,PNC Financial Services Group Inc,Financial Services,Banks - Regional
+JNJ,US,Johnson & Johnson,Healthcare,Drug Manufacturers - General
+EXPD,US,Expeditors International of Washington Inc,Industrials,Integrated Freight & Logistics
+TECH,US,Bio-Techne Corp,Healthcare,Biotechnology
+C,US,Citigroup Inc,Financial Services,Banks - Diversified
+MDLZ,US,Mondelez International Inc,Consumer Defensive,Confectioners
+TAP,US,Molson Coors Brewing Co Class B,Consumer Defensive,Beverages - Brewers
+AXP,US,American Express Company,Financial Services,Credit Services
+ALB,US,Albemarle Corp,Basic Materials,Specialty Chemicals
+AVB,US,AvalonBay Communities Inc,Real Estate,REIT - Residential
+MDT,US,Medtronic PLC,Healthcare,Medical Devices
+MHK,US,Mohawk Industries Inc,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+EA,US,Electronic Arts Inc,Communication Services,Electronic Gaming & Multimedia
+NDSN,US,Nordson Corporation,Industrials,Specialty Industrial Machinery
+PTC,US,PTC Inc,Technology,Software - Application
+EFX,US,Equifax Inc,Industrials,Consulting Services
+ADBE,US,Adobe Systems Incorporated,Technology,Software - Infrastructure
+SCHW,US,Charles Schwab Corp,Financial Services,Capital Markets
+RSG,US,Republic Services Inc,Industrials,Waste Management
+PWR,US,Quanta Services Inc,Industrials,Engineering & Construction
+MRK,US,Merck & Company Inc,Healthcare,Drug Manufacturers - General
+VRSK,US,Verisk Analytics Inc,Industrials,Consulting Services
+NWSA,US,News Corp A,Communication Services,Entertainment
+MSFT,US,Microsoft Corporation,Technology,Software - Infrastructure
+TSN,US,Tyson Foods Inc,Consumer Defensive,Farm Products
+EQT,US,EQT Corporation,Energy,Oil & Gas E&P
+BSX,US,Boston Scientific Corp,Healthcare,Medical Devices
+LKQ,US,LKQ Corporation,Consumer Cyclical,Auto Parts
+IEX,US,IDEX Corporation,Industrials,Specialty Industrial Machinery
+DE,US,Deere & Company,Industrials,Farm & Heavy Construction Machinery
+TRGP,US,Targa Resources Inc,Energy,Oil & Gas Midstream
+ROK,US,Rockwell Automation Inc,Industrials,Specialty Industrial Machinery
+NOC,US,Northrop Grumman Corporation,Industrials,Aerospace & Defense
+PFG,US,Principal Financial Group Inc,Financial Services,Asset Management
+WDC,US,Western Digital Corporation,Technology,Computer Hardware
+IDXX,US,IDEXX Laboratories Inc,Healthcare,Diagnostics & Research
+AKAM,US,Akamai Technologies Inc,Technology,Software - Infrastructure
+NXPI,US,NXP Semiconductors NV,Technology,Semiconductors
+WFC,US,Wells Fargo & Company,Financial Services,Banks - Diversified
+JNPR,US,Juniper Networks Inc,Technology,Communication Equipment
+CCL,US,Carnival Corporation,Consumer Cyclical,Travel Services
+AZO,US,AutoZone Inc,Consumer Cyclical,Specialty Retail
+HLT,US,Hilton Worldwide Holdings Inc,Consumer Cyclical,Lodging
+SBAC,US,SBA Communications Corp,Real Estate,REIT - Specialty
+GOOG,US,Alphabet Inc Class C,Communication Services,Internet Content & Information
+FOXA,US,Fox Corp Class A,Communication Services,Entertainment
+ECL,US,Ecolab Inc,Basic Materials,Specialty Chemicals
+HST,US,Host Hotels & Resorts Inc,Real Estate,REIT - Hotel & Motel
+CRL,US,Charles River Laboratories,Healthcare,Diagnostics & Research
+IBM,US,International Business Machines,Technology,Information Technology Services
+ISRG,US,Intuitive Surgical Inc,Healthcare,Medical Instruments & Supplies
+CPRT,US,Copart Inc,Industrials,Specialty Business Services
+DLR,US,Digital Realty Trust Inc,Real Estate,REIT - Specialty
+TDG,US,Transdigm Group Incorporated,Industrials,Aerospace & Defense
+AES,US,The AES Corporation,Utilities,Utilities - Diversified
+ED,US,Consolidated Edison Inc,Utilities,Utilities - Regulated Electric
+ETR,US,Entergy Corporation,Utilities,Utilities - Regulated Electric
+L,US,Loews Corp,Financial Services,Insurance - Property & Casualty
+HAL,US,Halliburton Company,Energy,Oil & Gas Equipment & Services
+MCK,US,McKesson Corporation,Healthcare,Medical Distribution
+BG,US,Bunge Limited,Consumer Defensive,Farm Products
+BAX,US,Baxter International Inc,Healthcare,Medical Instruments & Supplies
+GRMN,US,Garmin Ltd,Technology,Scientific & Technical Instruments
+TROW,US,T. Rowe Price Group Inc,Financial Services,Asset Management
+HSY,US,Hershey Co,Consumer Defensive,Confectioners
+DHI,US,DR Horton Inc,Consumer Cyclical,Residential Construction
+BLK,US,BlackRock Inc,Financial Services,Asset Management
+F,US,Ford Motor Company,Consumer Cyclical,Auto Manufacturers
+DAL,US,Delta Air Lines Inc,Industrials,Airlines
+WST,US,West Pharmaceutical Services Inc,Healthcare,Medical Instruments & Supplies
+LRCX,US,Lam Research Corp,Technology,Semiconductor Equipment & Materials
+HSIC,US,Henry Schein Inc,Healthcare,Medical Distribution
+WYNN,US,Wynn Resorts Limited,Consumer Cyclical,Resorts & Casinos
+ADI,US,Analog Devices Inc,Technology,Semiconductors
+LNT,US,Alliant Energy Corp,Utilities,Utilities - Regulated Electric
+INCY,US,Incyte Corporation,Healthcare,Biotechnology
+HBAN,US,Huntington Bancshares Incorporated,Financial Services,Banks - Regional
+META,US,Meta Platforms Inc.,Communication Services,Internet Content & Information
+AMGN,US,Amgen Inc,Healthcare,Drug Manufacturers - General
+AIG,US,American International Group Inc,Financial Services,Insurance - Diversified
+NI,US,NiSource Inc,Utilities,Utilities - Regulated Gas
+DVN,US,Devon Energy Corporation,Energy,Oil & Gas E&P
+PEP,US,PepsiCo Inc,Consumer Defensive,Beverages - Non-Alcoholic
+OMC,US,Omnicom Group Inc,Communication Services,Advertising Agencies
+STLD,US,Steel Dynamics Inc,Basic Materials,Steel
+LDOS,US,Leidos Holdings Inc,Technology,Information Technology Services
+TMO,US,Thermo Fisher Scientific Inc,Healthcare,Diagnostics & Research
+GNRC,US,Generac Holdings Inc,Industrials,Specialty Industrial Machinery
+FI,US,Fiserv Inc.,Technology,Information Technology Services
+MOS,US,The Mosaic Company,Basic Materials,Agricultural Inputs
+MPC,US,Marathon Petroleum Corp,Energy,Oil & Gas Refining & Marketing
+DIS,US,Walt Disney Company,Communication Services,Entertainment
+ATO,US,Atmos Energy Corporation,Utilities,Utilities - Regulated Gas
+CMS,US,CMS Energy Corporation,Utilities,Utilities - Regulated Electric
+DD,US,Dupont De Nemours Inc,Basic Materials,Specialty Chemicals
+ORLY,US,O’Reilly Automotive Inc,Consumer Cyclical,Specialty Retail
+CMCSA,US,Comcast Corp,Communication Services,Telecom Services
+STZ,US,Constellation Brands Inc Class A,Consumer Defensive,Beverages - Wineries & Distilleries
+NFLX,US,Netflix Inc,Communication Services,Entertainment
+FANG,US,Diamondback Energy Inc,Energy,Oil & Gas E&P
+FTNT,US,Fortinet Inc,Technology,Software - Infrastructure
+GM,US,General Motors Company,Consumer Cyclical,Auto Manufacturers
+V,US,Visa Inc. Class A,Financial Services,Credit Services
+SWK,US,Stanley Black & Decker Inc,Industrials,Tools & Accessories
+GE,US,GE Aerospace,Industrials,Aerospace & Defense
+TRMB,US,Trimble Inc,Technology,Scientific & Technical Instruments
+JBHT,US,JB Hunt Transport Services Inc,Industrials,Integrated Freight & Logistics
+MET,US,MetLife Inc,Financial Services,Insurance - Life
+GPC,US,Genuine Parts Co,Consumer Cyclical,Auto Parts
+MAR,US,Marriott International Inc,Consumer Cyclical,Lodging
+O,US,Realty Income Corp,Real Estate,REIT - Retail
+UPS,US,United Parcel Service Inc,Industrials,Integrated Freight & Logistics
+BK,US,Bank of New York Mellon,Financial Services,Asset Management
+OKE,US,ONEOK Inc,Energy,Oil & Gas Midstream
+MKTX,US,MarketAxess Holdings Inc,Financial Services,Capital Markets
+VRTX,US,Vertex Pharmaceuticals Inc,Healthcare,Biotechnology
+CHTR,US,Charter Communications Inc,Communication Services,Telecom Services
+MU,US,Micron Technology Inc,Technology,Semiconductors
+SMCI,US,Super Micro Computer Inc,Technology,Computer Hardware
+DVA,US,DaVita HealthCare Partners Inc,Healthcare,Medical Care Facilities
+XEL,US,Xcel Energy Inc,Utilities,Utilities - Regulated Electric
+LYV,US,Live Nation Entertainment Inc,Communication Services,Entertainment
+DTE,US,DTE Energy Company,Utilities,Utilities - Regulated Electric
+CPT,US,Camden Property Trust,Real Estate,REIT - Residential
+IVZ,US,Invesco Plc,Financial Services,Asset Management
+DPZ,US,Domino’s Pizza Inc,Consumer Cyclical,Restaurants
+PH,US,Parker-Hannifin Corporation,Industrials,Specialty Industrial Machinery
+VRSN,US,VeriSign Inc,Technology,Software - Infrastructure
+GILD,US,Gilead Sciences Inc,Healthcare,Drug Manufacturers - General
+JBL,US,Jabil Circuit Inc,Technology,Electronic Components
+APA,US,APA Corporation,Energy,Oil & Gas E&P
+PSA,US,Public Storage,Real Estate,REIT - Industrial
+JCI,US,Johnson Controls International PLC,Industrials,Building Products & Equipment
+EXPE,US,Expedia Group Inc.,Consumer Cyclical,Travel Services
+SJM,US,JM Smucker Company,Consumer Defensive,Packaged Foods
+MTB,US,M&T Bank Corporation,Financial Services,Banks - Regional
+CVS,US,CVS Health Corp,Healthcare,Healthcare Plans
+D,US,Dominion Energy Inc,Utilities,Utilities - Regulated Electric
+XYL,US,Xylem Inc,Industrials,Specialty Industrial Machinery
+BEN,US,Franklin Resources Inc,Financial Services,Asset Management
+ROP,US,Roper Technologies Inc. Common Stock,Technology,Software - Application
+SYK,US,Stryker Corporation,Healthcare,Medical Devices
+DHR,US,Danaher Corporation,Healthcare,Diagnostics & Research
+TXT,US,Textron Inc,Industrials,Aerospace & Defense
+ACGL,US,Arch Capital Group Ltd,Financial Services,Insurance - Diversified
+RHI,US,Robert Half International Inc,Industrials,Staffing & Employment Services
+ITW,US,Illinois Tool Works Inc,Industrials,Specialty Industrial Machinery
+JKHY,US,Jack Henry & Associates Inc,Technology,Information Technology Services
+NUE,US,Nucor Corp,Basic Materials,Steel
+BWA,US,BorgWarner Inc,Consumer Cyclical,Auto Parts
+VZ,US,Verizon Communications Inc,Communication Services,Telecom Services
+AMP,US,Ameriprise Financial Inc,Financial Services,Asset Management
+MCO,US,Moodys Corporation,Financial Services,Financial Data & Stock Exchanges
+YUM,US,Yum! Brands Inc,Consumer Cyclical,Restaurants
+HAS,US,Hasbro Inc,Consumer Cyclical,Leisure
+RMD,US,ResMed Inc,Healthcare,Medical Instruments & Supplies
+UNH,US,UnitedHealth Group Incorporated,Healthcare,Healthcare Plans
+CI,US,Cigna Corp,Healthcare,Healthcare Plans
+WY,US,Weyerhaeuser Company,Real Estate,REIT - Specialty
+MMC,US,Marsh & McLennan Companies Inc,Financial Services,Insurance Brokers
+IR,US,Ingersoll Rand Inc,Industrials,Specialty Industrial Machinery
+AMD,US,Advanced Micro Devices Inc,Technology,Semiconductors
+ALLE,US,Allegion PLC,Industrials,Security & Protection Services
+PCG,US,PG&E Corp,Utilities,Utilities - Regulated Electric
+ARE,US,Alexandria Real Estate Equities Inc,Real Estate,REIT - Office
+CZR,US,Caesars Entertainment Corporation,Consumer Cyclical,Resorts & Casinos
+KR,US,Kroger Company,Consumer Defensive,Grocery Stores
+MGM,US,MGM Resorts International,Consumer Cyclical,Resorts & Casinos
+CINF,US,Cincinnati Financial Corporation,Financial Services,Insurance - Property & Casualty
+CMI,US,Cummins Inc,Industrials,Specialty Industrial Machinery
+DOV,US,Dover Corporation,Industrials,Specialty Industrial Machinery
+SYY,US,Sysco Corporation,Consumer Defensive,Food Distribution
+BXP,US,Boston Properties Inc,Real Estate,REIT - Office
+EG,US,Everest Group Ltd,Financial Services,Insurance - Reinsurance
+WAB,US,Westinghouse Air Brake Technologies Corp,Industrials,Railroads
+TMUS,US,T-Mobile US Inc,Communication Services,Telecom Services
+USB,US,U.S. Bancorp,Financial Services,Banks - Regional
+WM,US,Waste Management Inc,Industrials,Waste Management
+ICE,US,Intercontinental Exchange Inc,Financial Services,Financial Data & Stock Exchanges
+FDX,US,FedEx Corporation,Industrials,Integrated Freight & Logistics
+HPQ,US,HP Inc,Technology,Computer Hardware
+PFE,US,Pfizer Inc,Healthcare,Drug Manufacturers - General
+DOW,US,Dow Inc,Basic Materials,Chemicals
+SRE,US,Sempra Energy,Utilities,Utilities - Diversified
+REGN,US,Regeneron Pharmaceuticals Inc,Healthcare,Biotechnology
+STX,US,Seagate Technology PLC,Technology,Computer Hardware
+TTWO,US,Take-Two Interactive Software Inc,Communication Services,Electronic Gaming & Multimedia
+NOW,US,ServiceNow Inc,Technology,Software - Application
+NVR,US,NVR Inc,Consumer Cyclical,Residential Construction
+STT,US,State Street Corp,Financial Services,Asset Management
+TFX,US,Teleflex Incorporated,Healthcare,Medical Instruments & Supplies
+ABBV,US,AbbVie Inc,Healthcare,Drug Manufacturers - General
+BR,US,Broadridge Financial Solutions Inc,Technology,Information Technology Services
+FSLR,US,First Solar Inc,Technology,Solar
+NEE,US,Nextera Energy Inc,Utilities,Utilities - Regulated Electric
+MCHP,US,Microchip Technology Inc,Technology,Semiconductors
+TYL,US,Tyler Technologies Inc,Technology,Software - Application
+PYPL,US,PayPal Holdings Inc,Financial Services,Credit Services
+BX,US,Blackstone Group Inc,Financial Services,Asset Management
+BF-B,US,Brown-Forman Corporation,Consumer Defensive,Beverages - Wineries & Distilleries
+SYF,US,Synchrony Financial,Financial Services,Credit Services
+ANET,US,Arista Networks,Technology,Computer Hardware
+CTLT,US,Catalent Inc,Healthcare,Drug Manufacturers - Specialty & Generic
+ELV,US,Elevance Health Inc,Healthcare,Healthcare Plans
+MAA,US,Mid-America Apartment Communities Inc,Real Estate,REIT - Residential
+KEYS,US,Keysight Technologies Inc,Technology,Scientific & Technical Instruments
+BRK-B,US,Berkshire Hathaway Inc,Financial Services,Insurance - Diversified
+CFG,US,"Citizens Financial Group, Inc.",Financial Services,Banks - Regional
+ETSY,US,Etsy Inc,Consumer Cyclical,Internet Retail
+KHC,US,Kraft Heinz Co,Consumer Defensive,Packaged Foods
+HPE,US,Hewlett Packard Enterprise Co,Technology,Communication Equipment
+WBA,US,Walgreens Boots Alliance Inc,Healthcare,Pharmaceutical Retailers
+ES,US,Eversource Energy,Utilities,Utilities - Regulated Electric
+ZBH,US,Zimmer Biomet Holdings Inc,Healthcare,Medical Devices
+QRVO,US,Qorvo Inc,Technology,Semiconductors
+WRK,US,WestRock Co,Consumer Cyclical,Packaging & Containers
+HUBB,US,Hubbell Inc,Industrials,Electrical Equipment & Parts
+ON,US,ON Semiconductor Corporation,Technology,Semiconductors
+SPGI,US,S&P Global Inc,Financial Services,Financial Data & Stock Exchanges
+FTV,US,Fortive Corp,Technology,Scientific & Technical Instruments
+LW,US,Lamb Weston Holdings Inc,Consumer Defensive,Packaged Foods
+AXON,US,Axon Enterprise Inc.,Industrials,Aerospace & Defense
+VST,US,Vistra Energy Corp,Utilities,Utilities - Independent Power Producers
+INVH,US,Invitation Homes Inc,Real Estate,REIT - Residential
+HD,US,Home Depot Inc,Consumer Cyclical,Home Improvement Retail
+EXC,US,Exelon Corporation,Utilities,Utilities - Regulated Electric
+LH,US,Laboratory Corporation of America Holdings,Healthcare,Diagnostics & Research
+MTD,US,Mettler-Toledo International Inc,Healthcare,Diagnostics & Research
+SLB,US,Schlumberger NV,Energy,Oil & Gas Equipment & Services
+CBRE,US,CBRE Group Inc Class A,Real Estate,Real Estate Services
+TPR,US,Tapestry Inc,Consumer Cyclical,Luxury Goods
+IQV,US,IQVIA Holdings Inc,Healthcare,Diagnostics & Research
+APTV,US,Aptiv PLC,Consumer Cyclical,Auto Parts
+VICI,US,VICI Properties Inc,Real Estate,REIT - Diversified
+BKNG,US,Booking Holdings Inc,Consumer Cyclical,Travel Services
+WELL,US,Welltower Inc,Real Estate,REIT - Healthcare Facilities
+DAY,US,Dayforce Inc.,Technology,Software - Application
+EVRG,US,Evergy Inc. Common Stock,Utilities,Utilities - Regulated Electric
+KDP,US,Keurig Dr Pepper Inc,Consumer Defensive,Beverages - Non-Alcoholic
+LIN,US,Linde plc Ordinary Shares,Basic Materials,Specialty Chemicals
+UBER,US,Uber Technologies Inc,Technology,Software - Application
+BKR,US,Baker Hughes Co,Energy,Oil & Gas Equipment & Services
+GL,US,Globe Life Inc,Financial Services,Insurance - Life
+HWM,US,Howmet Aerospace Inc,Industrials,Aerospace & Defense
+DOC,US,Healthpeak Properties Inc,Real Estate,REIT - Healthcare Facilities
+TT,US,Trane Technologies plc,Industrials,Building Products & Equipment
+PARA,US,Paramount Global Class B,Communication Services,Entertainment
+TFC,US,Truist Financial Corp,Financial Services,Banks - Regional
+CTVA,US,Corteva Inc,Basic Materials,Agricultural Inputs
+AMCR,US,Amcor PLC,Consumer Cyclical,Packaging & Containers
+LHX,US,L3Harris Technologies Inc,Industrials,Aerospace & Defense
+J,US,Jacobs Solutions Inc.,Industrials,Engineering & Construction
+CARR,US,Carrier Global Corp,Industrials,Building Products & Equipment
+OTIS,US,Otis Worldwide Corp,Industrials,Specialty Industrial Machinery
+RTX,US,Raytheon Technologies Corp,Industrials,Aerospace & Defense
+VTRS,US,Viatris Inc,Healthcare,Drug Manufacturers - Specialty & Generic
+ABNB,US,Airbnb Inc,Consumer Cyclical,Travel Services
+BBWI,US,Bath & Body Works Inc.,Consumer Cyclical,Specialty Retail
+CTRA,US,Coterra Energy Inc,Energy,Oil & Gas E&P
+WTW,US,Willis Towers Watson PLC,Financial Services,Insurance Brokers
+CEG,US,Constellation Energy Corp,Utilities,Utilities - Renewable
+WBD,US,Warner Bros Discovery Inc,Communication Services,Entertainment
+BALL,US,Ball Corporation,Consumer Cyclical,Packaging & Containers
+GEN,US,Gen Digital Inc.,Technology,Software - Infrastructure
+GEHC,US,GE HealthCare Technologies Inc.,Healthcare,Health Information Services
+KVUE,US,Kenvue Inc.,Consumer Defensive,Household & Personal Products
+RVTY,US,Revvity Inc.,Healthcare,Diagnostics & Research
+VLTO,US,Veralto Corporation,Industrials,Pollution & Treatment Controls
+COR,US,Cencora Inc.,Healthcare,Medical Distribution
+CPAY,US,Corpay Inc,Technology,Software - Infrastructure
+SOLV,US,Solventum Corp.,Healthcare,Health Information Services
+GEV,US,GE Vernova LLC,Utilities,Utilities - Renewable
